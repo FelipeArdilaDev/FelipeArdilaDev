@@ -5,7 +5,7 @@
 with Java, Kotlin, Flutter, SQL, Firebase, Testing technologies
 java, consumption of APIs with REST.</p>
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/Dev_Felipe_?color=1DF22E&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan1&screen_name=Dev_Felipe_)
+[![Twitter Follow](https://img.shields.io/twitter/follow/Dev_Felipe_?color=2986cc&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan1&screen_name=Dev_Felipe_)
 
 ### Connect with me:
 
