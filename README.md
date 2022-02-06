@@ -38,8 +38,6 @@ java, consumption of APIs with REST.</p>
     <a href="#"><img alt="Rangel's Github Stats" src="https://github-readme-stats.vercel.app/api?username=FelipeArdilaDev&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=0D1117" /></a>
   <a href="#"><img alt="Felipe Ardila Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeArdilaDev&langs_count=8&count_private=true&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" /></a>
   <br/>
-  <p class="note">
-  <b>Note:</b> Primary language is only a measure of the language my public code is in and does not reflect experience or skill level.
   </p>
 
 [linkedin]: https://www.linkedin.com/in/felipeardiladev/
