@@ -18,7 +18,7 @@ java, consumption of APIs with REST.</p>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+<img align="left" alt="SQL" width="26px" src="https://www.freeiconspng.com/thumbs/sql-server-icon-png/sql-server-icon-png-29.png" />
 <img align="left" alt="Firebase" width="26px" src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" />
 <img align="left" alt="Git" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1024px-Git_icon.svg.png" />
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
