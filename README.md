@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="300px" src="https://preview.redd.it/nz24ae8wbn441.gif?format=mp4&s=5beb085e3b143dbb56ad83a8ee4a4f2205f0c7fa"/></a>
+<a href="#"><img width="100%" height="300px" src="https://cdna.artstation.com/p/assets/images/images/021/720/920/original/pixel-jeff-mario.gif?1572709433"/></a>
 
 <h1 align="center"> Hi there, I'm Felipe Ardila 👋 </h1>
 <p align="center">I'm a mobile developer
