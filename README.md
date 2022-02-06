@@ -24,6 +24,9 @@ java, consumption of APIs with REST.</p>
 <img align="left" alt="GitHub" width="26px" src="https://cdn-icons-png.flaticon.com/512/25/25231.png" />
 <img align="left" alt="Android" width="26px" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Android_icon-icons.com_66772.png" />
 <img align="left" alt="Flutter" width="26px" src="https://iconape.com/wp-content/files/yb/61798/svg/flutter-logo.svg" />
+<img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Kotlin_Icon.png/1200px-Kotlin_Icon.png" />
+<img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
+<img align="left" alt="Java" width="26px" src="https://img.icons8.com/color/480/dart.png" />
 
 <br />
 <br />
