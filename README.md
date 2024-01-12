@@ -2,7 +2,7 @@
 
 <h1 align="center"> Hi there, I'm Felipe Ardila 👋 </h1>
 <p align="center">I'm a mobile developer
-with Java, Kotlin, Flutter, SQL, Firebase, Testing, consumption of APIs with REST.</p>
+Passionate Android developer with extensive experience, specialized in creating quality mobile applications. Certified in Platzi and Udemy, my focus is on innovation and adoption of modern technologies, including Flutter for cross-platform development. Expert in implementing efficient solutions and committed to continuous learning. Ready to contribute to the success of challenging projects.</p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/Dev_Felipe_?color=2986cc&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FRangelJhoan1&screen_name=Dev_Felipe_)
 
