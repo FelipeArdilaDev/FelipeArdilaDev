@@ -8,7 +8,7 @@ Passionate Android developer with extensive experience, specialized in creating 
 
 ### Connect with me:
 
-[<img align="left" alt="Dev_Felipe_| Twitter" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png" />][twitter]
+[<img align="left" alt="Dev_Felipe_| Twitter" width="22px" src="[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Twitter-logo.svg/1200px-Twitter-logo.svg.png](https://w7.pngwing.com/pngs/742/514/png-transparent-logo-youtube-twitter-bird-blue-logo-computer-wallpaper-thumbnail.png)" />][twitter]
 [<img align="left" alt="FelipeArdilaDev | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
 [<img align="left" alt="FelipeArdila | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174855.png" />][instagram]
 
